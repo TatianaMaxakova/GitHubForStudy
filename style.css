@@ -1,0 +1,14 @@
+table { width: 800px;
+        height: 500px;
+        text-aligh: center;
+        margin: auto;
+        background-color: rgb(236, 221, 167);
+        text-align: center;
+        border-collapse
+}
+.cells {
+  background-color: rgb(211, 197, 226);
+  text-align: center;
+  font-family: Arial;
+  font-size: 5rem;
+}
